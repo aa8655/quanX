@@ -1,1 +1,1 @@
-# quanX
+for own use
